@@ -1,0 +1,54 @@
+:root {
+    --color-primary: #FFC107;
+    --color-secondary: #FF9800;
+    --color-tertiary: #FF5722;
+    --color-quaternary: #FFC107;
+    --color-quinary: #FF9800;
+    --color-senary: #FF5722;
+    --color-septenary: #FFC107;
+    --color-octonary: #FF9800;
+    --color-nonary: #FF5722;
+    --color-denary: #FFC107;
+    --color-light: #FFFFFF;
+    --color-dark: #000000;
+    --color-gray: #9E9E9E;
+    --color-gray-light: #E0E0E0;
+    --color-gray-dark: #616161;
+    --color-gray-darker: #424242;
+    --color-gray-darkest: #212121;
+    --color-gray-lighter: #F5F5F5;
+    --color-gray-lightest: #FAFAFA;
+    --color-success: #4CAF50;
+    --color-info: #2196F3;
+    --color-warning: #FFEB3B;
+    --color-danger: #F44336;
+    --color-link: #2196F3;
+    --color-link-visited: #9C27B0;
+    --color-link-hover: #00BCD4;
+    --color-link-active: #FF5722;
+    --color-link-focus: #FFC107;
+    --color-link-disabled: #9E9E9E;
+    --color-link-text: #FFFFFF;
+    --color-link-text-visited: #FFFFFF;
+    --color-link-text-hover: #FFFFFF;
+    --color-link-text-active: #FFFFFF;
+    --color-link-text-focus: #FFFFFF;
+    --color-link-text-disabled: #FFFFFF;
+    --color-link-background: #2196F3;
+    --color-link-background-visited: #9C27B0;
+    --color-link-background-hover: #00BCD4;
+    --color-link-background-active: #FF5722;
+    --color-link-background-focus: #FFC107;
+    --color-link-background-disabled: #9E9E9E;
+    --color-link-border: #2196F3;
+    --color-link-border-visited: #9C27B0;
+    --variable-example: #2196F3;
+
+}
+/* reset css */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
